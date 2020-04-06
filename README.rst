@@ -6,5 +6,5 @@ How to contribute:
 
 * Create a virtual enviroment and activate it
 * `pip3 install -r requirements.txt`
-* `cd app`
+* `cd ea_assignment_hint_B`
 * `fabmanager run`
